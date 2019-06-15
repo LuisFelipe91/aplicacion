@@ -1,0 +1,22 @@
+{
+  "name": "aplicacione-web",
+  "version": "1.0.0",
+  "description": "aplicaciones para desarrollar web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFelipe91/aplicacion.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "luis felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisFelipe91/aplicacion/issues"
+  },
+  "homepage": "https://github.com/LuisFelipe91/aplicacion#readme"
+}
